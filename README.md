@@ -18,7 +18,7 @@ When you run an SQL command against any RDBMS, the system figures out the best w
 This procedure has a number of different components. Query Dispatcher, Optimization Engines, Classic Query Engine, and SQL Query Engine are some of these elements. Non-SQL queries are handled by the classic query engine, but logical files are not handled by the SQL query engine.
 
 
-##### Here's what we need to learn to detect SQL injection.
+#### Here's what we need to learn to detect SQL injection.
 
      1. The SQL SELECT Statement
      2. SQL WHERE Clause
@@ -35,7 +35,7 @@ This procedure has a number of different components. Query Dispatcher, Optimizat
     13. SQL Server CONCAT() Function
     14. LEARN about database Schema
     
-##### Some of The Most Important SQL Commands(Optional)
+#### Some of The Most Important SQL Commands(Optional)
 
 - **`SELECT`** - extracts data from a database
 - **`UPDATE`** - updates data in a database
@@ -50,5 +50,8 @@ This procedure has a number of different components. Query Dispatcher, Optimizat
 - **`DROP INDEX`** - deletes an index
 
 
+
+
+###### If you'd like to connect further, I invite you to follow my Twitter account.
 
 [Twitter](https://twitter.com/nazmul_ethi)
