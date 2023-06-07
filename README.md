@@ -36,7 +36,7 @@ This procedure has a number of different components. Query Dispatcher, Optimizat
     13. SQL Server CONCAT() Function
     14. LEARN about database Schema
     
-##### Some of The Most Important SQL Commands
+##### Some of The Most Important SQL Commands(Optional)
 
 - **`SELECT`** - extracts data from a database
 - **`UPDATE`** - updates data in a database
