@@ -49,7 +49,7 @@ This procedure has a number of different components. Query Dispatcher, Optimizat
 - **`CREATE INDEX`** - creates an index (search key)
 - **`DROP INDEX`** - deletes an index
 
-
+###### References : [SQL Tutorial-W3schools](https://www.w3schools.com/sql/)
 
 
 ###### If you'd like to connect further, I invite you to follow my Twitter account.
