@@ -18,5 +18,6 @@ Structured Query Language, or SQL, is the language that helps manage databases. 
     12. SQL Server SUBSTRING() Function
     13. SQL Server SUBSTRING() Function
     14. SQL Server CONCAT() Function
+    15. LEARN about database Schema
 
 
