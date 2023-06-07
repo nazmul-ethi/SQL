@@ -38,16 +38,17 @@ This procedure has a number of different components. Query Dispatcher, Optimizat
     
 ##### Some of The Most Important SQL Commands
 
-- **<span style="color: red;">SELECT</span>** - extracts data from a database
-- **<span style="color: red;">UPDATE</span>** - updates data in a database
-- **<span style="color: red;">DELETE</span>** - deletes data from a database
-- **<span style="color: red;">INSERT INTO</span>** - inserts new data into a database
-- **<span style="color: red;">CREATE DATABASE</span>** - creates a new database
-- **<span style="color: red;">ALTER DATABASE</span>** - modifies a database
-- **<span style="color: red;">CREATE TABLE</span>** - creates a new table
-- **<span style="color: red;">ALTER TABLE</span>** - modifies a table
-- **<span style="color: red;">DROP TABLE</span>** - deletes a table
-- **<span style="color: red;">CREATE INDEX</span>** - creates an index (search key)
-- **<span style="color: red;">DROP INDEX</span>** - deletes an index
+- **`SELECT`** - extracts data from a database
+- **`UPDATE`** - updates data in a database
+- **`DELETE`** - deletes data from a database
+- **`INSERT INTO`** - inserts new data into a database
+- **`CREATE DATABASE`** - creates a new database
+- **`ALTER DATABASE`** - modifies a database
+- **`CREATE TABLE`** - creates a new table
+- **`ALTER TABLE`** - modifies a table
+- **`DROP TABLE`** - deletes a table
+- **`CREATE INDEX`** - creates an index (search key)
+- **`DROP INDEX`** - deletes an index
+
 
 
