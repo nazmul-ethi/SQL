@@ -1,7 +1,7 @@
 
 ### What is SQL?
 
-Structured Query Language, or SQL, is the language that helps manage databases. It helps in creating data, operating on it, and retrieving it. It is also the standard language used in the Relational Database Systems. Various Relational Database Systems like MySQL, Sybase, Oracle, MS Access, Postgres, Infomix, SQL Server, etc., have SQL as their base language.
+Structured Query Language, or SQL, is the language that helps manage databases. It helps in creating data, operating on it, and retrieving it. It is also the standard language used in the Relational Database Systems. Various Relational Database Systems like MySQL, Sybase, Oracle, MS Access, Postgres, Infomix, SQL Server, MariaDB, and SQLite etc., have SQL as their base language.
 
 ### SQL VS NoSQL
 | Comparison criteria | SQL | NoSQL |
