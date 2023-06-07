@@ -51,3 +51,4 @@ This procedure has a number of different components. Query Dispatcher, Optimizat
 
 
 
+[Twitter](https://twitter.com/nazmul_ethi)
