@@ -12,6 +12,12 @@ Structured Query Language, or SQL, is the language that helps manage databases. 
 |Suitability for OLTP systems | Excellent | Average|
 |Database compliance | ACID properties | CAP Theorem|
 
+### SQL Process
+
+When you run an SQL command against any RDBMS, the system figures out the best way to carry out your request, and the SQL engine figures out how to interpret it.
+
+This procedure has a number of different components. Query Dispatcher, Optimization Engines, Classic Query Engine, and SQL Query Engine are some of these elements. Non-SQL queries are handled by the classic query engine, but logical files are not handled by the SQL query engine.
+
      1. The SQL SELECT Statement
      2. SQL WHERE Clause
      3. SQL AND, OR and NOT Operators
