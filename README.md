@@ -39,9 +39,9 @@ This procedure has a number of different components. Query Dispatcher, Optimizat
 ##### Some of The Most Important SQL Commands
 
 
--- Some of The Most Important SQL Commands
--- SELECT - extracts data from a database
--- UPDATE - updates data in a database
+     -- Some of The Most Important SQL Commands
+     -- SELECT - extracts data from a database
+     -- UPDATE - updates data in a database
 DELETE - deletes data from a database
 INSERT INTO - inserts new data into a database
 CREATE DATABASE - creates a new database
