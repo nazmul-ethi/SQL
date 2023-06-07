@@ -4,6 +4,14 @@
 
 Structured Query Language, or SQL, is the language that helps manage databases. It helps in creating data, operating on it, and retrieving it. It is also the standard language used in the Relational Database Systems. Various Relational Database Systems like MySQL, Sybase, Oracle, MS Access, Postgres, Infomix, SQL Server, etc., have SQL as their base language.
 
+### SQL VS NoSQL
+| Comparison criteria | SQL | NoSQL |
+|----------------------|---------------------|--------------------|
+|Type of database | Relational | Non-relational|
+|How is data stored? | Structured data in tables | Unstructured data in JSON files|
+|Suitability for OLTP systems | Excellent | Average|
+|Database compliance | ACID properties | CAP Theorem|
+
      1. The SQL SELECT Statement
      2. SQL WHERE Clause
      3. SQL AND, OR and NOT Operators
@@ -16,8 +24,7 @@ Structured Query Language, or SQL, is the language that helps manage databases. 
     10. SQL Comments
     11. SQL Arithmetic Operators - SQL Bitwise Operators -SQL Comparison Operators
     12. SQL Server SUBSTRING() Function
-    13. SQL Server SUBSTRING() Function
-    14. SQL Server CONCAT() Function
-    15. LEARN about database Schema
+    13. SQL Server CONCAT() Function
+    14. LEARN about database Schema
 
 
