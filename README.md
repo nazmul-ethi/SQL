@@ -1,4 +1,3 @@
-# SQL
 
 ### What is SQL?
 
