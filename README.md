@@ -8,16 +8,15 @@ Structured Query Language, or SQL, is the language that helps manage databases. 
      2. SQL WHERE Clause
      3. SQL AND, OR and NOT Operators
      4. SQL ORDER BY Keyword
-     5. SQL NULL Values
-     6. SQL COUNT(), AVG() and SUM() Functions
-     7. The SQL LIKE Operator
-     8. The SQL UNION Operator
-     9. The SQL ANY and ALL Operators
-    10. SQL CASE Expression
-    11. SQL Comments
-    12. SQL Arithmetic Operators - SQL Bitwise Operators -SQL Comparison Operators
+     5. SQL COUNT(), AVG() and SUM() Functions
+     6. The SQL LIKE Operator
+     7. The SQL UNION Operator
+     8. The SQL ANY and ALL Operators
+     9. SQL CASE Expression
+    10. SQL Comments
+    11. SQL Arithmetic Operators - SQL Bitwise Operators -SQL Comparison Operators
+    12. SQL Server SUBSTRING() Function
     13. SQL Server SUBSTRING() Function
-    14. SQL Server SUBSTRING() Function
-    15. SQL Server CONCAT() Function
+    14. SQL Server CONCAT() Function
 
 
