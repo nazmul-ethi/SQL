@@ -76,6 +76,26 @@ The RDBMS speaks about relations between different entities present in the datab
 
 The stored database is called executable code. The database collects and saves data and that particular procedure is called the stored procedure. During this, the codes are also stored which are used for encapsulation, deleting, etc. The programmers are able to add extensions of the syntaxes of SQL due to the applications of the APIs in the stored processes.
 
+### Database Schema
+A database schema is a blueprint or definition of a database that describes the data types, columns, constraints, and relationships between tables. It is used to define the structure of a database and to ensure that data is stored in a consistent and organized way.
+
+Yes, every database uses a schema. Some databases, such as Oracle, MySQL, PostgreSQL, and SQLite, have a built-in information schema that provides information about the database schema. The information schema is a database that contains metadata about the other databases in a database system. It can be used to query information about tables, columns, constraints, and other database objects.
+
+The information schema does not store sensitive information, such as admin credentials. This information is typically stored in a separate table or file that is not accessible through the information schema.
+
+Here are some of the benefits of using a database schema:
+
+Data consistency: A database schema ensures that data is stored in a consistent and organized way. This makes it easier to query and analyze data, and it can help to prevent data corruption.
+Data integrity: A database schema can be used to enforce data integrity constraints, such as unique keys and foreign keys. This helps to ensure that data is accurate and reliable.
+Data security: A database schema can be used to control access to data. This can help to protect sensitive data from unauthorized access.
+Here are some of the reasons why a database schema is important:
+
+It provides a blueprint for the database. The schema defines the structure of the database, including the tables, columns, and relationships between them. This makes it easier to understand the database and to make changes to it.
+It enforces data integrity. The schema can be used to define data constraints, such as unique keys and foreign keys. This helps to ensure that the data in the database is accurate and consistent.
+It facilitates data access. The schema can be used to create views, which are virtual tables that provide a customized view of the data in the database. This makes it easier for users to access the data they need.
+It simplifies data administration. The schema can be used to manage the database, such as creating and dropping tables, adding and removing columns, and changing data constraints. This makes it easier for database administrators to keep the database up to date.
+Overall, a database schema is an essential part of any database. It provides a blueprint for the database, enforces data integrity, facilitates data access, and simplifies data administration.
+
 ###### References : [SQL Tutorial-W3schools](https://www.w3schools.com/sql/)
 
 
