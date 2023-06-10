@@ -103,3 +103,28 @@ Overall, a database schema is an essential part of any database. It provides a b
 ###### If you'd like to connect further, I invite you to follow my Twitter account.
 
 [Twitter](https://twitter.com/nazmul_ethi)
+
+
+
+
+
+
+
+
+
+## 1. SQLi portswigger websecurity academy
+## 2. JavaScript
+## 3. Fuff Gobuster Dirbuster
+## 4. hakrawler
+
+
+
+
+
+
+
+
+
+
+
+
