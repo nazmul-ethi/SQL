@@ -106,16 +106,29 @@ Overall, a database schema is an essential part of any database. It provides a b
 
 
 
+#### Information gathering/reconnaissance tool list
 
 
+| Tool name | Short description|
+|-------------------------|-----------------------------------------|
+Amass
 
-
-
-
-## 1. SQLi portswigger websecurity academy
-## 2. JavaScript
-## 3. Fuff Gobuster Dirbuster
-## 4. hakrawler
+Subfinder
+Knock
+Sublist3r
+dig/nslookup
+Nmap
+Masscan
+Httpx
+eyewitness
+Waybackurls
+Gospider/hakrawler
+Ffuf
+Dirsearch
+Gobuster
+Whatweb
+Trufflenhog
+Subdomain permutation
 
 
 
