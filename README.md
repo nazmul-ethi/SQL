@@ -115,18 +115,18 @@ Overall, a database schema is an essential part of any database. It provides a b
 |2. [Subfinder](https://github.com/projectdiscovery/subfinder)|Fast passive subdomain discovery with search engines and DNS.|
 |3. [Knock](https://github.com/guelfoweb/knock)|Subdomain scanner for generating potential subdomains.|
 |4. [Sublist3r](https://github.com/aboul3la/Sublist3r)|Python tool for finding subdomains with search engines and DNS.|
-|5. [dig/nslookup](https://www.nslookup.io/domains/github.com/dns-records/)|these are separate DNS lookup tools, where "dig" is commonly used on Linux systems and "nslookup" is available on various operating systems|
-|6. [Nmap](https://github.com/nmap/nmap)|a popular network scanning tool|
-|7. [Masscan](https://github.com/robertdavidgraham/masscan)|a high-speed port scanner|
-|8. [Httpx](https://github.com/projectdiscovery/httpx)|a tool for retrieving HTTP responses and gathering information|
-|9. [eyewitness](https://github.com/RedSiege/EyeWitness)|a tool for capturing screenshots of web pages|
-|10. [Waybackurls](https://github.com/tomnomnom/waybackurls)|a tool for extracting URLs from the Wayback Machine's archive|
-|11. [Gospider/hakrawler](https://github.com/jaeles-project/gospider)|both are web crawling tools used for website enumeration|
-|12. [Ffuf](https://github.com/ffuf/ffuf)|a fast web fuzzer|
-|13. [Dirsearch](https://github.com/maurosoria/dirsearch)|a tool for discovering directories and files on web servers|
-|14. [Gobuster](https://github.com/OJ/gobuster)|a directory and file brute-forcing tool|
-|15. [Whatweb](https://github.com/urbanadventurer/WhatWeb)|a tool for finding secrets, such as API keys, in source code|
-|16. [Trufflenhog](https://github.com/trufflesecurity/trufflehog)|a tool for finding secrets, such as API keys, in source code|
+|5. [dig/nslookup](https://www.nslookup.io/domains/github.com/dns-records/)|These are separate DNS lookup tools, where "dig" is commonly used on Linux systems and "nslookup" is available on various operating systems|
+|6. [Nmap](https://github.com/nmap/nmap)|A popular network scanning tool|
+|7. [Masscan](https://github.com/robertdavidgraham/masscan)|A high-speed port scanner|
+|8. [Httpx](https://github.com/projectdiscovery/httpx)|A tool for retrieving HTTP responses and gathering information|
+|9. [eyewitness](https://github.com/RedSiege/EyeWitness)|A tool for capturing screenshots of web pages|
+|10. [Waybackurls](https://github.com/tomnomnom/waybackurls)|A tool for extracting URLs from the Wayback Machine's archive|
+|11. [Gospider/hakrawler](https://github.com/jaeles-project/gospider)|Both are web crawling tools used for website enumeration|
+|12. [Ffuf](https://github.com/ffuf/ffuf)|A fast web fuzzer|
+|13. [Dirsearch](https://github.com/maurosoria/dirsearch)|A tool for discovering directories and files on web servers|
+|14. [Gobuster](https://github.com/OJ/gobuster)|A directory and file brute-forcing tool|
+|15. [Whatweb](https://github.com/urbanadventurer/WhatWeb)|A tool for finding secrets, such as API keys, in source code|
+|16. [Trufflenhog](https://github.com/trufflesecurity/trufflehog)|A tool for finding secrets, such as API keys, in source code|
 
 
 
