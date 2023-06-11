@@ -111,15 +111,14 @@ Overall, a database schema is an essential part of any database. It provides a b
 
 | Tool name | Short description|
 |-------------------------|-----------------------------------------|
-Amass
-
-Subfinder
-Knock
-Sublist3r
-dig/nslookup
-Nmap
-Masscan
-Httpx
+|Amass|Versatile subdomain enumerator using DNS, scraping, and logs.|
+|Subfinder|Fast passive subdomain discovery with search engines and DNS.|
+|Knock|Subdomain scanner for generating potential subdomains.|
+|Sublist3r|Python tool for finding subdomains with search engines and DNS.|
+|dig/nslookup|these are separate DNS lookup tools, where "dig" is commonly used on Linux systems and "nslookup" is available on various operating systems|
+|Nmap|a popular network scanning tool|
+|Masscan|a high-speed port scanner|
+|Httpx|a tool for retrieving HTTP responses and gathering information
 eyewitness
 Waybackurls
 Gospider/hakrawler
