@@ -111,22 +111,22 @@ Overall, a database schema is an essential part of any database. It provides a b
 
 | Tool name | Short description|
 |-------------------------|-----------------------------------------|
-|Amass|Versatile subdomain enumerator using DNS, scraping, and logs.|
-|Subfinder|Fast passive subdomain discovery with search engines and DNS.|
-|Knock|Subdomain scanner for generating potential subdomains.|
-|Sublist3r|Python tool for finding subdomains with search engines and DNS.|
-|dig/nslookup|these are separate DNS lookup tools, where "dig" is commonly used on Linux systems and "nslookup" is available on various operating systems|
-|Nmap|a popular network scanning tool|
-|Masscan|a high-speed port scanner|
-|Httpx|a tool for retrieving HTTP responses and gathering information|
-|eyewitness|a tool for capturing screenshots of web pages|
-|Waybackurls|a tool for extracting URLs from the Wayback Machine's archive|
-|Gospider/hakrawler|both are web crawling tools used for website enumeration|
-|Ffuf|a fast web fuzzer|
-|Dirsearch|a tool for discovering directories and files on web servers|
-|Gobuster|a directory and file brute-forcing tool|
-|Whatweb|a tool for finding secrets, such as API keys, in source code|
-Trufflenhog|a tool for finding secrets, such as API keys, in source code|
+|1. Amass|Versatile subdomain enumerator using DNS, scraping, and logs.|
+|2. Subfinder|Fast passive subdomain discovery with search engines and DNS.|
+|3. Knock|Subdomain scanner for generating potential subdomains.|
+|4. Sublist3r|Python tool for finding subdomains with search engines and DNS.|
+|5. dig/nslookup|these are separate DNS lookup tools, where "dig" is commonly used on Linux systems and "nslookup" is available on various operating systems|
+|6. Nmap|a popular network scanning tool|
+|7. Masscan|a high-speed port scanner|
+|8. Httpx|a tool for retrieving HTTP responses and gathering information|
+|9. eyewitness|a tool for capturing screenshots of web pages|
+|10. Waybackurls|a tool for extracting URLs from the Wayback Machine's archive|
+|11. Gospider/hakrawler|both are web crawling tools used for website enumeration|
+|12. Ffuf|a fast web fuzzer|
+|13. Dirsearch|a tool for discovering directories and files on web servers|
+|14. Gobuster|a directory and file brute-forcing tool|
+|15. Whatweb|a tool for finding secrets, such as API keys, in source code|
+|16. Trufflenhog|a tool for finding secrets, such as API keys, in source code|
 
 
 
