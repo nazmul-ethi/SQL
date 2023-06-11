@@ -118,16 +118,15 @@ Overall, a database schema is an essential part of any database. It provides a b
 |dig/nslookup|these are separate DNS lookup tools, where "dig" is commonly used on Linux systems and "nslookup" is available on various operating systems|
 |Nmap|a popular network scanning tool|
 |Masscan|a high-speed port scanner|
-|Httpx|a tool for retrieving HTTP responses and gathering information
-eyewitness
-Waybackurls
-Gospider/hakrawler
-Ffuf
-Dirsearch
-Gobuster
-Whatweb
-Trufflenhog
-Subdomain permutation
+|Httpx|a tool for retrieving HTTP responses and gathering information|
+|eyewitness|a tool for capturing screenshots of web pages|
+|Waybackurls|a tool for extracting URLs from the Wayback Machine's archive|
+|Gospider/hakrawler|both are web crawling tools used for website enumeration|
+|Ffuf|a fast web fuzzer|
+|Dirsearch|a tool for discovering directories and files on web servers|
+|Gobuster|a directory and file brute-forcing tool|
+|Whatweb|a tool for finding secrets, such as API keys, in source code|
+Trufflenhog|a tool for finding secrets, such as API keys, in source code|
 
 
 
