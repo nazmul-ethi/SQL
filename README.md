@@ -110,7 +110,7 @@ Overall, a database schema is an essential part of any database. It provides a b
 
 
 | Tool name | Short description|
-|-------------------------|-----------------------------------------|
+|------------------------------------|-----------------------------------------|
 |1. [Amass](https://github.com/owasp-amass/amass)|Versatile subdomain enumerator using DNS, scraping, and logs.|
 |2. [Subfinder](https://github.com/projectdiscovery/subfinder)|Fast passive subdomain discovery with search engines and DNS.|
 |3. [Knock](https://github.com/guelfoweb/knock)|Subdomain scanner for generating potential subdomains.|
