@@ -34,7 +34,8 @@ This procedure has a number of different components. Query Dispatcher, Optimizat
     12. SQL Arithmetic Operators - SQL Bitwise Operators -SQL Comparison Operators
     13. SQL Server SUBSTRING() Function
     14. SQL Server CONCAT() Function
-    15. LEARN about database Schema
+    15. SQL Server ASCII() Function
+    16. LEARN about database Schema
     
 #### Some of The Most Important SQL Commands(Optional)
 
