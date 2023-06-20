@@ -186,10 +186,7 @@ Overall, a database schema is an essential part of any database. It provides a b
 |                   | TCP                                               | UDP                                  |
 | ----------------- | ------------------------------------------------- | ------------------------------------ |
 | **Protocol**      | Reliable, connection-oriented transport protocol    | Unreliable, connectionless transport  |
-
-| **Handshake**     | Three-way handshake:1. Client sends a SYN (Synchronize) packet 
-2. Server responds with SYN-ACK (Synchronize-Acknowledge) packet
-3. Client acknowledges with an ACK (Acknowledge) packet | No handshake |
+| **Handshake**     | Three-way handshake:1. Client sends a SYN (Synchronize) packet 2. Server responds with SYN-ACK (Synchronize-Acknowledge) packet 3. Client acknowledges with an ACK (Acknowledge) packet | No handshake |
 
 
 
