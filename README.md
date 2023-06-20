@@ -142,10 +142,8 @@ Overall, a database schema is an essential part of any database. It provides a b
 ##
 
 
-
-----------------------------------------------------------------------------------------------------------------------
 | Term               | Definition                                                                                      |
-----------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------
 | ACK                | Acknowledgment is a message sent by the receiving end to confirm the successful receipt of data.      |
 ----------------------------------------------------------------------------------------------------------------------
 | Congestion Control | A mechanism that manages the amount of data being sent over a network to prevent congestion.         |
