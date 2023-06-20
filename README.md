@@ -183,31 +183,13 @@ Overall, a database schema is an essential part of any database. It provides a b
 
 
 ###Hi!
-|                   | TCP                                              | UDP                                 |
-|-------------------|--------------------------------------------------|-------------------------------------|
-| **Protocol**      | Reliable, connection-oriented transport protocol   | Unreliable, connectionless transport |
-|                   |                                                  | protocol                            |
-| **Handshake**     | Three-way handshake:                             | No handshake                        |
-|                   | 1. Client sends a SYN (Synchronize) packet       |                                     |
-|                   | 2. Server responds with SYN-ACK                  |                                     |
-|                   |    (Synchronize-Acknowledge) packet              |                                     |
-|                   | 3. Client acknowledges with an ACK (Acknowledge) |                                     |
-|                   |    packet                                        |                                     |
-| **Reliability**   | Provides reliable delivery of data packets       | Provides best-effort delivery of    |
-|                   | through acknowledgment, retransmission, and      | data packets without guaranteeing   |
-|                   | sequencing mechanisms                            | delivery or order                    |
-| **Connection**    | Establishes a connection before data transfer     | No connection establishment         |
-|                   |                                                  | required                            |
-| **Flow Control**  | Utilizes flow control mechanisms to regulate     | No inherent flow control mechanism  |
-|                   | the rate of data transmission to prevent         |                                       |
-|                   | overwhelming the receiver                         |                                       |
-| **Congestion      | Implements congestion control algorithms          | No built-in congestion control      |
-| Control**         | to manage network congestion and ensure           | mechanisms                          |
-|                   | fair and efficient data transmission              |                                       |
-| **Usage**         | Suitable for applications requiring reliable      | Suitable for real-time applications, |
-|                   | and ordered delivery of data (e.g., web           | multimedia streaming, online gaming |
-|                   | browsing, file transfer)                          |                                       |
-| **Examples**      | HTTP, FTP, SMTP, SSH, Telnet                     | DNS, VoIP, streaming applications   |
+|                   | TCP                                               | UDP                                  |
+| ----------------- | ------------------------------------------------- | ------------------------------------ |
+| **Protocol**      | Reliable, connection-oriented transport protocol    | Unreliable, connectionless transport  |
+
+| **Handshake**     | Three-way handshake:1. Client sends a SYN (Synchronize) packet 
+2. Server responds with SYN-ACK (Synchronize-Acknowledge) packet
+3. Client acknowledges with an ACK (Acknowledge) packet | No handshake |
 
 
 
