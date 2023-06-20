@@ -190,5 +190,21 @@ Overall, a database schema is an essential part of any database. It provides a b
 
 
 
+##
+
+| **Three-Way Handshake**                                                   |
+|---------------------------------------------------------------------------|
+| 1. Client sends a SYN (Synchronize) packet                                |
+|    - Initiates the connection request                                     |
+|    - Sets the SYN flag                                                     |
+|                                                                           |
+| 2. Server responds with SYN-ACK (Synchronize-Acknowledge) packet          |
+|    - Acknowledges the client's request by sending a SYN-ACK packet         |
+|    - Sets the SYN and ACK flags                                            |
+|                                                                           |
+| 3. Client sends an ACK (Acknowledge) packet                                |
+|    - Confirms the receipt of the server's SYN-ACK packet                   |
+|    - Sets the ACK flag                                                     |
+|    - Connection is established and data transfer can begin                 |
 
 
