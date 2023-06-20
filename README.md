@@ -194,7 +194,7 @@ Overall, a database schema is an essential part of any database. It provides a b
 
 | **Three-Way Handshake**                                                   |
 |---------------------------------------------------------------------------|
-| ```sql 1. Client sends a SYN (Synchronize) packet                                |
+| sql 1. Client sends a SYN (Synchronize) packet                                |
 |    - Initiates the connection request                                     |
 |    - Sets the SYN flag                                                     |
 |                                                                           |
