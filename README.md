@@ -127,10 +127,9 @@ Overall, a database schema is an essential part of any database. It provides a b
 |13. [Ffuf](https://github.com/ffuf/ffuf)|A fast web fuzzer|
 |14. [Dirsearch](https://github.com/maurosoria/dirsearch)|A tool for discovering directories and files on web servers|
 |15. [Gobuster](https://github.com/OJ/gobuster)|A directory and file brute-forcing tool|
-|16. [Kiterunner](https://github.com/assetnote/kiterunner)|kite is a context based webscanner that uses common
-api paths for content discovery of an applications api paths|
-|16. [Whatweb](https://github.com/urbanadventurer/WhatWeb)|A tool for finding secrets, such as API keys, in source code|
-|17. [Trufflenhog](https://github.com/trufflesecurity/trufflehog)|A tool for finding secrets, such as API keys, in source code|
+|16. [Kiterunner](https://github.com/assetnote/kiterunner)|kite is a context based webscanner that uses common api paths for content discovery of an applications api paths|
+|17. [Whatweb](https://github.com/urbanadventurer/WhatWeb)|A tool for finding secrets, such as API keys, in source code|
+|18. [Trufflenhog](https://github.com/trufflesecurity/trufflehog)|A tool for finding secrets, such as API keys, in source code|
 
 
 
