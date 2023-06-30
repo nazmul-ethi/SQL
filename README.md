@@ -133,8 +133,8 @@ Overall, a database schema is an essential part of any database. It provides a b
 
 
 
-| Term               | Definition                                                                                      |
-----------------------------------------------------------------------------------------------------------------------
+| Term | Definition |
+|----------------------|---------------------|
 | ACK                | Acknowledgment is a message sent by the receiving end to confirm the successful receipt of data. |
 | Congestion Control | A mechanism that manages the amount of data being sent over a network to prevent congestion. It helps to ensure that the network does not become overloaded and that data packets are delivered efficiently without causing significant delays or losses. |
 | Error Detection | The process of identifying errors or corrupted data during transmission. It involves adding checksums or CRC (Cyclic Redundancy Check) values to the data, allowing the receiver to verify the integrity of the received data. If errors are detected, appropriate actions can be taken. |
