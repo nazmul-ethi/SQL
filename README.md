@@ -132,52 +132,40 @@ Overall, a database schema is an essential part of any database. It provides a b
 
 
 
-----------------------------------------------------------------------------------------------------------------------
+
 | Term               | Definition                                                                                      |
 ----------------------------------------------------------------------------------------------------------------------
-| ACK                | Acknowledgment is a message sent by the receiving end to confirm the successful receipt of data.      |
-----------------------------------------------------------------------------------------------------------------------
-| Congestion Control | A mechanism that manages the amount of data being sent over a network to prevent congestion.         |
-|                    | It helps to ensure that the network does not become overloaded and that data packets are delivered   |
-|                    | efficiently without causing significant delays or losses.                                          |
-----------------------------------------------------------------------------------------------------------------------
-| Error Detection    | The process of identifying errors or corrupted data during transmission. It involves adding          |
-|                    | checksums or CRC (Cyclic Redundancy Check) values to the data, allowing the receiver to verify      |
-|                    | the integrity of the received data. If errors are detected, appropriate actions can be taken.        |
-----------------------------------------------------------------------------------------------------------------------
-| Flow Control       | A technique used to manage the rate of data transmission between two devices. It ensures that        |
-|                    | the sender does not overwhelm the receiver with data faster than it can process or store.            |
-|                    | Flow control prevents data loss and buffer overflows by regulating the flow of data packets.         |
-----------------------------------------------------------------------------------------------------------------------
-| MTU                | Maximum Transmission Unit represents the maximum size of a packet that can be transmitted over       |
-|                    | a network. It defines the maximum amount of data that can be carried in one network packet.         |
-|                    | When data is larger than the MTU, it needs to be fragmented into smaller packets for transmission.  |
-----------------------------------------------------------------------------------------------------------------------
-| Port               | A numerical identifier used to specify a particular process or service in a computer network.       |
-|                    | Ports allow multiple applications or services to coexist on the same device by assigning each       |
-|                    | application or service a unique port number. Examples include port 80 for HTTP and port 22 for SSH. |
-----------------------------------------------------------------------------------------------------------------------
-| Quality of Service | QoS refers to the capability of a network to provide different priority levels to different types   |
-| (QoS)              | of data. QoS mechanisms prioritize certain types of traffic, ensuring that critical data, such    |
-|                    | as real-time voice or video, receives higher priority than less time-sensitive data.               |
-----------------------------------------------------------------------------------------------------------------------
-| Reliable Delivery  | A guarantee that data will be successfully delivered to the recipient without errors or losses.     |
-|                    | Reliable delivery is typically provided by protocols such as TCP (Transmission Control Protocol),  |
-|                    | which includes mechanisms for error detection, acknowledgment, retransmission, and sequencing.    |
-----------------------------------------------------------------------------------------------------------------------
-| Segmentation       | The process of dividing a message into smaller units or segments for transmission over a network.   |
-|                    | Segmentation allows large data blocks to be split into smaller, manageable units that can be       |
-|                    | efficiently transmitted and reassembled at the receiving end. TCP segments data for transmission.  |
-----------------------------------------------------------------------------------------------------------------------
-| TCP                | Transmission Control Protocol is a reliable, connection-oriented protocol that provides            |
-|                    | error checking, flow control, congestion control, and sequencing for data transmission.           |
-|                    | TCP establishes a connection between sender and receiver, ensuring reliable delivery of data.      |
-|                    | It guarantees that data is received in the correct order without errors or losses.                 |
-----------------------------------------------------------------------------------------------------------------------
-| UDP                | User Datagram Protocol is a connectionless protocol that provides faster but less reliable          |
-|                    | transmission compared to TCP. UDP does not establish a connection or provide error recovery       |
-|                    | mechanisms. It is often used for real-time communication, such as streaming media or online gaming.|
-----------------------------------------------------------------------------------------------------------------------
+| ACK                | Acknowledgment is a message sent by the receiving end to confirm the successful receipt of data. |
+
+
+| Congestion Control | A mechanism that manages the amount of data being sent over a network to prevent congestion. It helps to ensure that the network does not become overloaded and that data packets are delivered efficiently without causing significant delays or losses. |
+
+
+| Error Detection | The process of identifying errors or corrupted data during transmission. It involves adding checksums or CRC (Cyclic Redundancy Check) values to the data, allowing the receiver to verify the integrity of the received data. If errors are detected, appropriate actions can be taken. |
+
+
+| Flow Control | A technique used to manage the rate of data transmission between two devices. It ensures that the sender does not overwhelm the receiver with data faster than it can process or store. Flow control prevents data loss and buffer overflows by regulating the flow of data packets |
+
+| MTU | Maximum Transmission Unit represents the maximum size of a packet that can be transmitted over a network. It defines the maximum amount of data that can be carried in one network packet.When data is larger than the MTU, it needs to be fragmented into smaller packets for transmission.  |
+
+
+
+| Port | A numerical identifier used to specify a particular process or service in a computer network. Ports allow multiple applications or services to coexist on the same device by assigning each application or service a unique port number. Examples include port 80 for HTTP and port 22 for SSH. |
+
+
+| Quality of Service | QoS refers to the capability of a network to provide different priority levels to different types of data. QoS mechanisms prioritize certain types of traffic, ensuring that critical data, such as real-time voice or video, receives higher priority than less time-sensitive data. |
+
+| Reliable Delivery  | A guarantee that data will be successfully delivered to the recipient without errors or losses. Reliable delivery is typically provided by protocols such as TCP (Transmission Control Protocol), which includes mechanisms for error detection, acknowledgment, retransmission, and sequencing. |
+
+
+| Segmentation | The process of dividing a message into smaller units or segments for transmission over a network. Segmentation allows large data blocks to be split into smaller, manageable units that can be efficiently transmitted and reassembled at the receiving end. TCP segments data for transmission. |
+
+
+| TCP | Transmission Control Protocol is a reliable, connection-oriented protocol that provides error checking, flow control, congestion control, and sequencing for data transmission. TCP establishes a connection between sender and receiver, ensuring reliable delivery of data.  It guarantees that data is received in the correct order without errors or losses.  |
+
+| UDP  | User Datagram Protocol is a connectionless protocol that provides faster but less reliable transmission compared to TCP. UDP does not establish a connection or provide error recovery  mechanisms. It is often used for real-time communication, such as streaming media or online gaming.|
+
+
 
 
 
