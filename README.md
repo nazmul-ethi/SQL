@@ -113,7 +113,7 @@ Overall, a database schema is an essential part of any database. It provides a b
 | Tool name | Short description|
 |------------------------------------|-----------------------------------------|
 |1. [Amass](https://github.com/owasp-amass/amass)|Versatile subdomain enumerator using DNS, scraping, and logs. [BGP](https://bgp.he.net/)|
-|2. [Subfinder](https://github.com/projectdiscovery/subfinder)|Fast passive subdomain discovery with search engines and DNS.[ONLINE TOOL](https://subdomainfinder.c99.nl/)|
+|2. [Subfinder](https://github.com/projectdiscovery/subfinder)|Fast passive subdomain discovery with search engines and DNS. [Online TooL](https://subdomainfinder.c99.nl/)|
 |3. [Knock](https://github.com/guelfoweb/knock)|Subdomain scanner for generating potential subdomains.|
 |4. [DNSrecon]()|dnsrecon is an automation tool used for DNS information gathering. It has many features but the one we'll mostly use is its brute force capabilities to try and find subdomains.|
 |5. [Sublist3r](https://github.com/aboul3la/Sublist3r)|Python tool for finding subdomains with search engines and DNS.|
